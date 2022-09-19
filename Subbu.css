@@ -1,0 +1,95 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    background-color: Orange;
+
+}
+
+#image{
+    height: 140px;
+    width: 160px;
+    margin-top: 90px;
+    margin-bottom: 1px;
+    margin-left: 50px;
+    
+}
+
+#name{
+    letter-spacing: 0.0em;
+
+}
+
+#web{
+    letter-spacing: 0.1em;
+    margin-top: 8px;
+}
+
+#underline{
+    width: 300px;
+    height: 6px;
+    background-color: cornsilk;
+}
+.button{
+    border-radius: 50px;
+    background-color: white;
+    border: none;
+    text-align: center;
+    padding: 10px 20px;
+}
+#wrapper{
+    padding: 0px;
+    margin-top: 25px;
+}
+
+#progress-bar{
+    background-color: rgb(255,71,98);
+    height: 10px;
+    width: 250px;
+}
+
+
+
+.skills{
+    display: grid;
+    grid-template-columns: 40fr 4fr;
+}
+
+#progresscss{
+    background-color: mediumred;
+    height: 10px;
+    width: 150px;
+}
+
+
+
+#progresshtml{
+    background-color: indiangreen;
+    height: 10px;
+    width: 190px;
+}
+
+#progressjs{
+        background-color: violets;
+        height: 10px;
+        width: 160px;
+    }
+
+
+
+#progresssketch{
+    background-color: rgba(0,0,255);
+            height: 10px;
+            width: 160px;
+}
+
+#progressxd{
+    background-color: rgba(238,130,238);
+            height: 10px;
+            width: 140px;
+}
+
+#progressadobe{
+    background-color: rgba(60,179,113);
+    height: 10px;
+    width: 180px;
+}
